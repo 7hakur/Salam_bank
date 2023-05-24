@@ -1,0 +1,18 @@
+SMAP
+accountlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+header.jsp
++ 1 accountlist.jsp
+accountlist.jsp
++ 2 db_connection.jsp
+db_connection.jsp
+*L
+1,141:51
+1#1:192
+1#2:193
+3,16:195
+2#1,13:211
+*E
